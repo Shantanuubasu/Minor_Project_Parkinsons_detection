@@ -212,3 +212,10 @@ By pursuing these avenues for future scope, our Parkinson's disease detection mo
 
 ### NOTE: This project was created for academic usage by:
 
+<a href="https://github.com/Shantanuubasu">Shantanuubasu</a>
+<a href="https://github.com/ankit221209">Ankit Ghosh</a>
+<a href="https://github.com/ChaitanyaPunja">Chaitanya Punja</a>
+<a href="https://github.com/Sashank08">Sashank Patnaik</a>
+<a href="https://github.com/Sayanjones">Sayan Mandal</a>
+
+
